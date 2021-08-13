@@ -1,0 +1,1 @@
+﻿var textForPages = ["CURSO            VIRTUAL                 INGENIERIA INDUSTRIAL","","","","","","","","","","","","","","","","",""];
